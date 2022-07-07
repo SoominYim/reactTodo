@@ -40,5 +40,6 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "prettier-eslint": "^15.0.1"
-  }
+  },
+  "homepage": "https://soominyim.github.io/reactTodo/"
 }
