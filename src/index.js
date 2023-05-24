@@ -10,3 +10,4 @@ ReactDOM.createRoot(rootNode).render(
   </React.StrictMode>
 );
 reportWebVitals();
+//왜 안돼
